@@ -1,0 +1,4 @@
+Doctor ID,Doctor Name,Event Name,Event Description,Event Type,Event Start Date,Event Start Time,Event Duration (minutes)
+D001,John Smith,Seminar,Seminar at NUH,Personal,12/11/2024,15:00,120
+D002,Emily Clarke,Appointment,Appointment with patient,Appointment,12/11/2024,14:00,30
+D001,John Smith,Appointment,Appointment with patient,Appointment,13/11/2024,14:30,30

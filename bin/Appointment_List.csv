@@ -1,0 +1,7 @@
+AppointmentID,DoctorID,DoctorName,PatientID,Date,Start Time,End Time,ServiceType,Status,ConsultationNotes,Prescriptions
+A1,D001,John Smith,P1001,14/11/2024,12:00,12:15,Consultation,Dispensed,Patient has contracted Stomach Flu,Paracetamol
+A2,D001,John Smith,P1002,15/11/2024,12:00,12:15,Consultation,Completed,Nothing to report,""
+A3,D001,John Smith,P1003,18/11/2024,12:00,12:15,Consultation,Completed,"Nothing to report",""
+A4,D001,John Smith,P1004,18/11/2024,13:00,13:15,Consultation,Completed,"Nothing to report",""
+A5,D001,John Smith,P1001,20/11/2024,12:00,12:15,Consultation,Dispensed,Patient has slight fever|2 days MC,Paracetamol
+A6,D002,Emily Clarke,P1007,21/11/2024,12:30,12:45,Consultation,Dispensed,2 days MC,Paracetamol

@@ -1,0 +1,16 @@
+ID,Medication Name,Stock Level,Medication Price,Warning Quantity,Replenishment Request,Replenishment Approval
+1,Paracetamol,100,5,5,FALSE,FALSE
+2,Ibuprofen,50,10,10,FALSE,FALSE
+3,Amoxicillin,75,15,15,FALSE,FALSE
+4,                 ,0,0,-1,FALSE,FALSE
+5,                 ,0,0,-1,FALSE,FALSE
+6,                 ,0,0,-1,FALSE,FALSE
+7,                 ,0,0,-1,FALSE,FALSE
+8,                 ,0,0,-1,FALSE,FALSE
+9,                 ,0,0,-1,FALSE,FALSE
+10,                 ,0,0,-1,FALSE,FALSE
+11,                 ,0,0,-1,FALSE,FALSE
+12,                 ,0,0,-1,FALSE,FALSE
+13,                 ,0,0,-1,FALSE,FALSE
+14,                 ,0,0,-1,FALSE,FALSE
+15,                 ,0,0,-1,FALSE,FALSE

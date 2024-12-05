@@ -1,0 +1,5 @@
+ID,Medication Name,Stock Level,Medication Price,Warning Quantity,Replenishment Request,Replenishment Approval
+1,Paracetamol,95,5.0,11,false,false
+2,Ibuprofen,59,10.0,10,false,false
+3,Amoxicillin,75,15.0,15,false,false
+4,Snake Oil,80,89.99,69,false,false

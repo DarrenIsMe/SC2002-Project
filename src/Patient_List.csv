@@ -1,0 +1,8 @@
+Patient ID,Name,Date of Birth,Gender,Blood Type,Email,Phone Number,Password
+P1001,Alice Brown,14/5/1980,Female,A+,kdd,90233333,h1111W0000
+P1002,Bob Stone,22/11/1975,Male,B+,bob.stone@example.com,87551412,Testing2
+P1003,Charlie White,8/7/1990,Male,O-,charlie.white@example.com,97925523,password
+P1004,hx,28/10/2002,Male,O+,onghongxun@gmail.com,93834456,password
+P1005,Ally Tan,1/10/2001,Female,O+,allytan@gmail.com,91238432,password
+P1006,Roger Teo,28/2/1996,Male,A-,rogerteo123@gmail.com,12345678,password
+P1007,Char Bao Jie,15/12/2000,Female,A-,abby@gmail.com,12345678,Testing123
